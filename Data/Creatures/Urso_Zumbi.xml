@@ -1,4 +1,4 @@
-<creature name="Urso_Zumbi" level="88" merchant="0" clan="1" class="1" experience="26000" gold="9999" >
+<creature name="Urso_Zumbi" level="95" merchant="0" clan="1" class="1" experience="26000" gold="9999" >
 	<health now="3600" max="3600" regen="0" />
 	<status str="3" dex="50" int="50" con="0" />
 	<special special1="255" special2="7" special3="255" special4="7" />
